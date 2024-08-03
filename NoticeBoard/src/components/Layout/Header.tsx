@@ -96,7 +96,7 @@ const Header: React.FC = () => {
       <nav className='flex justify-between container mx-auto'>
         <div>
           <Link href='/' legacyBehavior>
-            <a className='text-xl font-bold mr-4'>NoticeBoard</a>
+            <a className='text-xl font-bold mr-4'>AnyAfAll</a>
           </Link>
           <Link href='/board' legacyBehavior>
             <a className='mr-4' style={{ color: 'yellow' }}>
